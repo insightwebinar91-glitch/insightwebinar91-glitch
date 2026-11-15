@@ -1,41 +1,48 @@
-Hello, I'm John Wainaina 👋
+Hi, I'm John Wainaina 👋
 
-Web Designer & Front-End Developer
+Web Designer | Front-End Developer
 
-I'm passionate about building modern, responsive and user-friendly websites.
+I enjoy creating modern, responsive and user-friendly websites. I focus on clean layouts, accessible interfaces and practical web solutions.
 
-My Skills
+👨‍💻 About Me
+
+- 🎓 Second-year Electrical and Electronics Engineering student at Murang'a University of Technology.
+- 🌐 Interested in web design and front-end development.
+- 💡 Building practical projects using HTML, CSS and JavaScript.
+- 📱 Focused on responsive websites that work across different devices.
+- 🚀 Continuously learning and improving my development skills.
+
+🛠️ Technical Skills
 
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
-- UI Design
-- Front-End Development
+- Website Layout and UI Design
+- Git and GitHub
 
-Featured Work
+🌍 Live Portfolio
 
-I have developed several demonstration projects, including:
+"Visit My Professional Portfolio" (https://johnwainaina-portfolio.netlify.app/)
 
-- ClientFlow Management Dashboard
-- BrightStar Electronics Website
-- DevTechPad
-- FreshMart Online Store
-- EduLearn Online School
-- HealthCare Plus
-- LuxuryStay Hotel Website
+🚀 Featured Projects
 
-Education
+Project| Repository
+ClientFlow Management Dashboard| "View Project" (https://github.com/insightwebinar91-glitch/clientflow-management-dashboard)
+BrightStar Electronics| "View Project" (https://github.com/insightwebinar91-glitch/brightstar-electronics-website)
+DevTechPad Website| "View Project" (https://github.com/insightwebinar91-glitch/devtechpad-website)
+FreshMart Online Store| "View Project" (https://github.com/insightwebinar91-glitch/freshmart-online-store)
+EduLearn Online School| "View Project" (https://github.com/insightwebinar91-glitch/edulearn-online-school)
+HealthCare Plus Website| "View Project" (https://github.com/insightwebinar91-glitch/healthcare-plus-website)
+LuxuryStay Hotel Website| "View Project" (https://github.com/insightwebinar91-glitch/luxurystay-hotel-website)
+Professional Portfolio| "View Source Code" (https://github.com/insightwebinar91-glitch/john-wainaina-portfolio)
 
-Bachelor of Technology in Electrical and Electronics Engineering
-Murang'a University of Technology
+📫 Contact
 
-Portfolio
+- Email: insightwebinar91@gmail.com
+- Portfolio: https://johnwainaina-portfolio.netlify.app/
+- GitHub: https://github.com/insightwebinar91-glitch
 
-Explore my projects and web design work:
+---
 
-https://insighhtwebinar91.netlify.app
-
-My Goal
-
-Continuously improving my development skills and creating useful digital experiences.
+Thank you for visiting my GitHub profile!
