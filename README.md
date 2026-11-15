@@ -1,16 +1,41 @@
-## Hi there 👋
+Hello, I'm John Wainaina 👋
 
-<!--
-**insightwebinar91-glitch/insightwebinar91-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Designer & Front-End Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- UI Design
+- Front-End Development
+
+Featured Work
+
+I have developed several demonstration projects, including:
+
+- ClientFlow Management Dashboard
+- BrightStar Electronics Website
+- DevTechPad
+- FreshMart Online Store
+- EduLearn Online School
+- HealthCare Plus
+- LuxuryStay Hotel Website
+
+Education
+
+Bachelor of Technology in Electrical and Electronics Engineering
+Murang'a University of Technology
+
+Portfolio
+
+Explore my projects and web design work:
+
+https://insighhtwebinar91.netlify.app
+
+My Goal
+
+Continuously improving my development skills and creating useful digital experiences.
